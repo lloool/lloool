@@ -51,19 +51,27 @@
 
 ---
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=llcool&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llcool&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=llcool&show_icons=true&theme=radical" alt="Lakshya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llcool&layout=compact&theme=radical" alt="Top Languages Used" />
 </p>
 
 ---
 
-### 🔥 Streak & Trophy
+### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=llcool&theme=tokyonight" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=llcool&theme=darkhub&no-frame=true&column=7&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=llcool&theme=onedark&row=1&column=6&margin-w=10&no-bg=true" />
+</p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=llcool&theme=radical" />
 </p>
