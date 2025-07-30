@@ -34,7 +34,7 @@
 
 - 📍 Greater Noida, Uttar Pradesh
 - 💼 [LinkedIn](https://www.linkedin.com/in/lakshya-sharma-757238250)
-- ✉️ lakshya.email@example.com *(replace with your email)*
+- ✉️ lakshyasharma175@gmail.com
 
 ---
 
