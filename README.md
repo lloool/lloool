@@ -9,8 +9,7 @@
 
 ### 💬 Ask Me About
 
-- JavaScript | TypeScript | Python
-- Git & GitHub
+- JavaScript | Python | Java
 - Full-stack workflows from frontend to backend
 
 ---
