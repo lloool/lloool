@@ -26,7 +26,6 @@
 ### ✍️ A Personal Belief
 
 > **Truth. Fire. Focus.**  
-> Code that reflects purpose is code that lasts.
 
 ---
 
@@ -39,6 +38,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
 </p>
+
+- Code that reflects purpose is code that lasts.
  
 - 📧 lakshyasharma175@gmail.com
 
